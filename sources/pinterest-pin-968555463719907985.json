@@ -1,0 +1,23 @@
+{
+  "pin_id": "968555463719907985",
+  "structured_data": [
+    {
+      "@type": "SocialMediaPosting",
+      "headline": "Purple Bazin Styles",
+      "datePublished": "2026-04-30T21:39:32.000Z",
+      "image": "https://i.pinimg.com/originals/58/f6/46/58f6461167286bbd17d232c74cdb577d.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "Modou",
+        "alternateName": "boromngap",
+        "url": "https://www.pinterest.com/boromngap"
+      },
+      "sharedContent": {
+        "@type": "WebPage",
+        "headline": "Purple Bazin Styles",
+        "url": "https://in.pinterest.com/pin/863987509778029306/"
+      }
+    }
+  ],
+  "pin_fields": []
+}

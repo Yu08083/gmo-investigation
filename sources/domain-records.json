@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "ldhName": "coronamng.store",
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventActor": "namecheap",
+        "eventDate": "2026-08-31T15:26:04.258Z"
+      },
+      {
+        "eventAction": "expiration",
+        "eventDate": "2027-08-31T15:26:04.258Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-09-16T00:48:38.530Z"
+      }
+    ],
+    "nameservers": [
+      {
+        "ldhName": "dns1.namecheaphosting.com"
+      },
+      {
+        "ldhName": "dns2.namecheaphosting.com"
+      }
+    ]
+  },
+  "certificates": [
+    {
+      "issuer_ca_id": 259254,
+      "issuer_name": "C=US, O=SSL Corporation, CN=SSL.com TLS Issuing RSA CA R1",
+      "common_name": "coronamng.store",
+      "name_value": "coronamng.store\nwww.coronamng.store",
+      "id": 29197665429,
+      "not_before": "2026-08-31T15:43:21",
+      "not_after": "2027-03-17T15:41:56",
+      "serial_number": "0a59ae5ac70afcca42d7953b6c78f7ed",
+      "result_count": 3
+    }
+  ],
+  "hosting": {
+    "A": "198.54.116.91",
+    "PTR": "server72-4.web-hosting.com"
+  }
+}
